@@ -6,7 +6,7 @@ body{
 /* top banner design */
 
 #top-banner{
-    background-image: url(/images/donation13.jpg);
+    background: url(/images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,6 +14,7 @@ body{
     color: white;
     text-align: center;
     padding: 15%;
+    opacity: 1.0;
 }
 #banner-text h1{
     font-weight: 700;
